@@ -1,4 +1,4 @@
-# # Buat folder public
+# Buat folder public
 mkdir public
 
 # Buat folder netlify/functions
